@@ -1,0 +1,1522 @@
+[
+  {
+    "z": 1,
+    "Encuentro": "Athletic Club-Atletico de Madrid"
+  },
+  {
+    "z": 2,
+    "Encuentro": "Athletic Club-CA Osasuna"
+  },
+  {
+    "z": 3,
+    "Encuentro": "Athletic Club-Cadiz FC"
+  },
+  {
+    "z": 4,
+    "Encuentro": "Athletic Club-Elche CF"
+  },
+  {
+    "z": 5,
+    "Encuentro": "Athletic Club-FC Barcelona"
+  },
+  {
+    "z": 6,
+    "Encuentro": "Athletic Club-Getafe CF"
+  },
+  {
+    "z": 7,
+    "Encuentro": "Athletic Club-Girona FC"
+  },
+  {
+    "z": 8,
+    "Encuentro": "Athletic Club-RC Celta de Vigo"
+  },
+  {
+    "z": 9,
+    "Encuentro": "Athletic Club-RCD Espanyol"
+  },
+  {
+    "z": 10,
+    "Encuentro": "Athletic Club-RCD Mallorca"
+  },
+  {
+    "z": 11,
+    "Encuentro": "Athletic Club-Rayo Vallecano"
+  },
+  {
+    "z": 12,
+    "Encuentro": "Athletic Club-Real Betis Balompié"
+  },
+  {
+    "z": 13,
+    "Encuentro": "Athletic Club-Real Madrid CF"
+  },
+  {
+    "z": 14,
+    "Encuentro": "Athletic Club-Real Sociedad"
+  },
+  {
+    "z": 15,
+    "Encuentro": "Athletic Club-Real Valladolid CF"
+  },
+  {
+    "z": 16,
+    "Encuentro": "Athletic Club-Sevilla FC"
+  },
+  {
+    "z": 17,
+    "Encuentro": "Athletic Club-UD Almería"
+  },
+  {
+    "z": 18,
+    "Encuentro": "Athletic Club-Valencia CF"
+  },
+  {
+    "z": 19,
+    "Encuentro": "Athletic Club-Villarreal CF"
+  },
+  {
+    "z": 20,
+    "Encuentro": "Atletico de Madrid-CA Osasuna"
+  },
+  {
+    "z": 21,
+    "Encuentro": "Atletico de Madrid-Cadiz FC"
+  },
+  {
+    "z": 22,
+    "Encuentro": "Atletico de Madrid-Elche CF"
+  },
+  {
+    "z": 23,
+    "Encuentro": "Atletico de Madrid-FC Barcelona"
+  },
+  {
+    "z": 24,
+    "Encuentro": "Atletico de Madrid-Getafe CF"
+  },
+  {
+    "z": 25,
+    "Encuentro": "Atletico de Madrid-Girona FC"
+  },
+  {
+    "z": 26,
+    "Encuentro": "Atletico de Madrid-RC Celta de Vigo"
+  },
+  {
+    "z": 27,
+    "Encuentro": "Atletico de Madrid-RCD Espanyol"
+  },
+  {
+    "z": 28,
+    "Encuentro": "Atletico de Madrid-RCD Mallorca"
+  },
+  {
+    "z": 29,
+    "Encuentro": "Atletico de Madrid-Rayo Vallecano"
+  },
+  {
+    "z": 30,
+    "Encuentro": "Atletico de Madrid-Real Betis Balompié"
+  },
+  {
+    "z": 31,
+    "Encuentro": "Atletico de Madrid-Real Madrid CF"
+  },
+  {
+    "z": 32,
+    "Encuentro": "Atletico de Madrid-Real Sociedad"
+  },
+  {
+    "z": 33,
+    "Encuentro": "Atletico de Madrid-Real Valladolid CF"
+  },
+  {
+    "z": 34,
+    "Encuentro": "Atletico de Madrid-Sevilla FC"
+  },
+  {
+    "z": 35,
+    "Encuentro": "Atletico de Madrid-UD Almería"
+  },
+  {
+    "z": 36,
+    "Encuentro": "Atletico de Madrid-Valencia CF"
+  },
+  {
+    "z": 37,
+    "Encuentro": "Atletico de Madrid-Villarreal CF"
+  },
+  {
+    "z": 38,
+    "Encuentro": "CA Osasuna-Cadiz FC"
+  },
+  {
+    "z": 39,
+    "Encuentro": "CA Osasuna-Elche CF"
+  },
+  {
+    "z": 40,
+    "Encuentro": "CA Osasuna-FC Barcelona"
+  },
+  {
+    "z": 41,
+    "Encuentro": "CA Osasuna-Getafe CF"
+  },
+  {
+    "z": 42,
+    "Encuentro": "CA Osasuna-Girona FC"
+  },
+  {
+    "z": 43,
+    "Encuentro": "CA Osasuna-RC Celta de Vigo"
+  },
+  {
+    "z": 44,
+    "Encuentro": "CA Osasuna-RCD Espanyol"
+  },
+  {
+    "z": 45,
+    "Encuentro": "CA Osasuna-RCD Mallorca"
+  },
+  {
+    "z": 46,
+    "Encuentro": "CA Osasuna-Rayo Vallecano"
+  },
+  {
+    "z": 47,
+    "Encuentro": "CA Osasuna-Real Betis Balompié"
+  },
+  {
+    "z": 48,
+    "Encuentro": "CA Osasuna-Real Madrid CF"
+  },
+  {
+    "z": 49,
+    "Encuentro": "CA Osasuna-Real Sociedad"
+  },
+  {
+    "z": 50,
+    "Encuentro": "CA Osasuna-Real Valladolid CF"
+  },
+  {
+    "z": 51,
+    "Encuentro": "CA Osasuna-Sevilla FC"
+  },
+  {
+    "z": 52,
+    "Encuentro": "CA Osasuna-UD Almería"
+  },
+  {
+    "z": 53,
+    "Encuentro": "CA Osasuna-Valencia CF"
+  },
+  {
+    "z": 54,
+    "Encuentro": "CA Osasuna-Villarreal CF"
+  },
+  {
+    "z": 55,
+    "Encuentro": "Cadiz FC-Elche CF"
+  },
+  {
+    "z": 56,
+    "Encuentro": "Cadiz FC-FC Barcelona"
+  },
+  {
+    "z": 57,
+    "Encuentro": "Cadiz FC-Getafe CF"
+  },
+  {
+    "z": 58,
+    "Encuentro": "Cadiz FC-Girona FC"
+  },
+  {
+    "z": 59,
+    "Encuentro": "Cadiz FC-RC Celta de Vigo"
+  },
+  {
+    "z": 60,
+    "Encuentro": "Cadiz FC-RCD Espanyol"
+  },
+  {
+    "z": 61,
+    "Encuentro": "Cadiz FC-RCD Mallorca"
+  },
+  {
+    "z": 62,
+    "Encuentro": "Cadiz FC-Rayo Vallecano"
+  },
+  {
+    "z": 63,
+    "Encuentro": "Cadiz FC-Real Betis Balompié"
+  },
+  {
+    "z": 64,
+    "Encuentro": "Cadiz FC-Real Madrid CF"
+  },
+  {
+    "z": 65,
+    "Encuentro": "Cadiz FC-Real Sociedad"
+  },
+  {
+    "z": 66,
+    "Encuentro": "Cadiz FC-Real Valladolid CF"
+  },
+  {
+    "z": 67,
+    "Encuentro": "Cadiz FC-Sevilla FC"
+  },
+  {
+    "z": 68,
+    "Encuentro": "Cadiz FC-UD Almería"
+  },
+  {
+    "z": 69,
+    "Encuentro": "Cadiz FC-Valencia CF"
+  },
+  {
+    "z": 70,
+    "Encuentro": "Cadiz FC-Villarreal CF"
+  },
+  {
+    "z": 71,
+    "Encuentro": "Elche CF-FC Barcelona"
+  },
+  {
+    "z": 72,
+    "Encuentro": "Elche CF-Getafe CF"
+  },
+  {
+    "z": 73,
+    "Encuentro": "Elche CF-Girona FC"
+  },
+  {
+    "z": 74,
+    "Encuentro": "Elche CF-RC Celta de Vigo"
+  },
+  {
+    "z": 75,
+    "Encuentro": "Elche CF-RCD Espanyol"
+  },
+  {
+    "z": 76,
+    "Encuentro": "Elche CF-RCD Mallorca"
+  },
+  {
+    "z": 77,
+    "Encuentro": "Elche CF-Rayo Vallecano"
+  },
+  {
+    "z": 78,
+    "Encuentro": "Elche CF-Real Betis Balompié"
+  },
+  {
+    "z": 79,
+    "Encuentro": "Elche CF-Real Madrid CF"
+  },
+  {
+    "z": 80,
+    "Encuentro": "Elche CF-Real Sociedad"
+  },
+  {
+    "z": 81,
+    "Encuentro": "Elche CF-Real Valladolid CF"
+  },
+  {
+    "z": 82,
+    "Encuentro": "Elche CF-Sevilla FC"
+  },
+  {
+    "z": 83,
+    "Encuentro": "Elche CF-UD Almería"
+  },
+  {
+    "z": 84,
+    "Encuentro": "Elche CF-Valencia CF"
+  },
+  {
+    "z": 85,
+    "Encuentro": "Elche CF-Villarreal CF"
+  },
+  {
+    "z": 86,
+    "Encuentro": "FC Barcelona-Getafe CF"
+  },
+  {
+    "z": 87,
+    "Encuentro": "FC Barcelona-Girona FC"
+  },
+  {
+    "z": 88,
+    "Encuentro": "FC Barcelona-RC Celta de Vigo"
+  },
+  {
+    "z": 89,
+    "Encuentro": "FC Barcelona-RCD Espanyol"
+  },
+  {
+    "z": 90,
+    "Encuentro": "FC Barcelona-RCD Mallorca"
+  },
+  {
+    "z": 91,
+    "Encuentro": "FC Barcelona-Rayo Vallecano"
+  },
+  {
+    "z": 92,
+    "Encuentro": "FC Barcelona-Real Betis Balompié"
+  },
+  {
+    "z": 93,
+    "Encuentro": "FC Barcelona-Real Madrid CF"
+  },
+  {
+    "z": 94,
+    "Encuentro": "FC Barcelona-Real Sociedad"
+  },
+  {
+    "z": 95,
+    "Encuentro": "FC Barcelona-Real Valladolid CF"
+  },
+  {
+    "z": 96,
+    "Encuentro": "FC Barcelona-Sevilla FC"
+  },
+  {
+    "z": 97,
+    "Encuentro": "FC Barcelona-UD Almería"
+  },
+  {
+    "z": 98,
+    "Encuentro": "FC Barcelona-Valencia CF"
+  },
+  {
+    "z": 99,
+    "Encuentro": "FC Barcelona-Villarreal CF"
+  },
+  {
+    "z": 100,
+    "Encuentro": "Getafe CF-Girona FC"
+  },
+  {
+    "z": 101,
+    "Encuentro": "Getafe CF-RC Celta de Vigo"
+  },
+  {
+    "z": 102,
+    "Encuentro": "Getafe CF-RCD Espanyol"
+  },
+  {
+    "z": 103,
+    "Encuentro": "Getafe CF-RCD Mallorca"
+  },
+  {
+    "z": 104,
+    "Encuentro": "Getafe CF-Rayo Vallecano"
+  },
+  {
+    "z": 105,
+    "Encuentro": "Getafe CF-Real Betis Balompié"
+  },
+  {
+    "z": 106,
+    "Encuentro": "Getafe CF-Real Madrid CF"
+  },
+  {
+    "z": 107,
+    "Encuentro": "Getafe CF-Real Sociedad"
+  },
+  {
+    "z": 108,
+    "Encuentro": "Getafe CF-Real Valladolid CF"
+  },
+  {
+    "z": 109,
+    "Encuentro": "Getafe CF-Sevilla FC"
+  },
+  {
+    "z": 110,
+    "Encuentro": "Getafe CF-UD Almería"
+  },
+  {
+    "z": 111,
+    "Encuentro": "Getafe CF-Valencia CF"
+  },
+  {
+    "z": 112,
+    "Encuentro": "Getafe CF-Villarreal CF"
+  },
+  {
+    "z": 113,
+    "Encuentro": "Girona FC-RC Celta de Vigo"
+  },
+  {
+    "z": 114,
+    "Encuentro": "Girona FC-RCD Espanyol"
+  },
+  {
+    "z": 115,
+    "Encuentro": "Girona FC-RCD Mallorca"
+  },
+  {
+    "z": 116,
+    "Encuentro": "Girona FC-Rayo Vallecano"
+  },
+  {
+    "z": 117,
+    "Encuentro": "Girona FC-Real Betis Balompié"
+  },
+  {
+    "z": 118,
+    "Encuentro": "Girona FC-Real Madrid CF"
+  },
+  {
+    "z": 119,
+    "Encuentro": "Girona FC-Real Sociedad"
+  },
+  {
+    "z": 120,
+    "Encuentro": "Girona FC-Real Valladolid CF"
+  },
+  {
+    "z": 121,
+    "Encuentro": "Girona FC-Sevilla FC"
+  },
+  {
+    "z": 122,
+    "Encuentro": "Girona FC-UD Almería"
+  },
+  {
+    "z": 123,
+    "Encuentro": "Girona FC-Valencia CF"
+  },
+  {
+    "z": 124,
+    "Encuentro": "Girona FC-Villarreal CF"
+  },
+  {
+    "z": 125,
+    "Encuentro": "RC Celta de Vigo-RCD Espanyol"
+  },
+  {
+    "z": 126,
+    "Encuentro": "RC Celta de Vigo-RCD Mallorca"
+  },
+  {
+    "z": 127,
+    "Encuentro": "RC Celta de Vigo-Rayo Vallecano"
+  },
+  {
+    "z": 128,
+    "Encuentro": "RC Celta de Vigo-Real Betis Balompié"
+  },
+  {
+    "z": 129,
+    "Encuentro": "RC Celta de Vigo-Real Madrid CF"
+  },
+  {
+    "z": 130,
+    "Encuentro": "RC Celta de Vigo-Real Sociedad"
+  },
+  {
+    "z": 131,
+    "Encuentro": "RC Celta de Vigo-Real Valladolid CF"
+  },
+  {
+    "z": 132,
+    "Encuentro": "RC Celta de Vigo-Sevilla FC"
+  },
+  {
+    "z": 133,
+    "Encuentro": "RC Celta de Vigo-UD Almería"
+  },
+  {
+    "z": 134,
+    "Encuentro": "RC Celta de Vigo-Valencia CF"
+  },
+  {
+    "z": 135,
+    "Encuentro": "RC Celta de Vigo-Villarreal CF"
+  },
+  {
+    "z": 136,
+    "Encuentro": "RCD Espanyol-RCD Mallorca"
+  },
+  {
+    "z": 137,
+    "Encuentro": "RCD Espanyol-Rayo Vallecano"
+  },
+  {
+    "z": 138,
+    "Encuentro": "RCD Espanyol-Real Betis Balompié"
+  },
+  {
+    "z": 139,
+    "Encuentro": "RCD Espanyol-Real Madrid CF"
+  },
+  {
+    "z": 140,
+    "Encuentro": "RCD Espanyol-Real Sociedad"
+  },
+  {
+    "z": 141,
+    "Encuentro": "RCD Espanyol-Real Valladolid CF"
+  },
+  {
+    "z": 142,
+    "Encuentro": "RCD Espanyol-Sevilla FC"
+  },
+  {
+    "z": 143,
+    "Encuentro": "RCD Espanyol-UD Almería"
+  },
+  {
+    "z": 144,
+    "Encuentro": "RCD Espanyol-Valencia CF"
+  },
+  {
+    "z": 145,
+    "Encuentro": "RCD Espanyol-Villarreal CF"
+  },
+  {
+    "z": 146,
+    "Encuentro": "RCD Mallorca-Rayo Vallecano"
+  },
+  {
+    "z": 147,
+    "Encuentro": "RCD Mallorca-Real Betis Balompié"
+  },
+  {
+    "z": 148,
+    "Encuentro": "RCD Mallorca-Real Madrid CF"
+  },
+  {
+    "z": 149,
+    "Encuentro": "RCD Mallorca-Real Sociedad"
+  },
+  {
+    "z": 150,
+    "Encuentro": "RCD Mallorca-Real Valladolid CF"
+  },
+  {
+    "z": 151,
+    "Encuentro": "RCD Mallorca-Sevilla FC"
+  },
+  {
+    "z": 152,
+    "Encuentro": "RCD Mallorca-UD Almería"
+  },
+  {
+    "z": 153,
+    "Encuentro": "RCD Mallorca-Valencia CF"
+  },
+  {
+    "z": 154,
+    "Encuentro": "RCD Mallorca-Villarreal CF"
+  },
+  {
+    "z": 155,
+    "Encuentro": "Rayo Vallecano-Real Betis Balompié"
+  },
+  {
+    "z": 156,
+    "Encuentro": "Rayo Vallecano-Real Madrid CF"
+  },
+  {
+    "z": 157,
+    "Encuentro": "Rayo Vallecano-Real Sociedad"
+  },
+  {
+    "z": 158,
+    "Encuentro": "Rayo Vallecano-Real Valladolid CF"
+  },
+  {
+    "z": 159,
+    "Encuentro": "Rayo Vallecano-Sevilla FC"
+  },
+  {
+    "z": 160,
+    "Encuentro": "Rayo Vallecano-UD Almería"
+  },
+  {
+    "z": 161,
+    "Encuentro": "Rayo Vallecano-Valencia CF"
+  },
+  {
+    "z": 162,
+    "Encuentro": "Rayo Vallecano-Villarreal CF"
+  },
+  {
+    "z": 163,
+    "Encuentro": "Real Betis Balompié-Real Madrid CF"
+  },
+  {
+    "z": 164,
+    "Encuentro": "Real Betis Balompié-Real Sociedad"
+  },
+  {
+    "z": 165,
+    "Encuentro": "Real Betis Balompié-Real Valladolid CF"
+  },
+  {
+    "z": 166,
+    "Encuentro": "Real Betis Balompié-Sevilla FC"
+  },
+  {
+    "z": 167,
+    "Encuentro": "Real Betis Balompié-UD Almería"
+  },
+  {
+    "z": 168,
+    "Encuentro": "Real Betis Balompié-Valencia CF"
+  },
+  {
+    "z": 169,
+    "Encuentro": "Real Betis Balompié-Villarreal CF"
+  },
+  {
+    "z": 170,
+    "Encuentro": "Real Madrid CF-Real Sociedad"
+  },
+  {
+    "z": 171,
+    "Encuentro": "Real Madrid CF-Real Valladolid CF"
+  },
+  {
+    "z": 172,
+    "Encuentro": "Real Madrid CF-Sevilla FC"
+  },
+  {
+    "z": 173,
+    "Encuentro": "Real Madrid CF-UD Almería"
+  },
+  {
+    "z": 174,
+    "Encuentro": "Real Madrid CF-Valencia CF"
+  },
+  {
+    "z": 175,
+    "Encuentro": "Real Madrid CF-Villarreal CF"
+  },
+  {
+    "z": 176,
+    "Encuentro": "Real Sociedad-Real Valladolid CF"
+  },
+  {
+    "z": 177,
+    "Encuentro": "Real Sociedad-Sevilla FC"
+  },
+  {
+    "z": 178,
+    "Encuentro": "Real Sociedad-UD Almería"
+  },
+  {
+    "z": 179,
+    "Encuentro": "Real Sociedad-Valencia CF"
+  },
+  {
+    "z": 180,
+    "Encuentro": "Real Sociedad-Villarreal CF"
+  },
+  {
+    "z": 181,
+    "Encuentro": "Real Valladolid CF-Sevilla FC"
+  },
+  {
+    "z": 182,
+    "Encuentro": "Real Valladolid CF-UD Almería"
+  },
+  {
+    "z": 183,
+    "Encuentro": "Real Valladolid CF-Valencia CF"
+  },
+  {
+    "z": 184,
+    "Encuentro": "Real Valladolid CF-Villarreal CF"
+  },
+  {
+    "z": 185,
+    "Encuentro": "Sevilla FC-UD Almería"
+  },
+  {
+    "z": 186,
+    "Encuentro": "Sevilla FC-Valencia CF"
+  },
+  {
+    "z": 187,
+    "Encuentro": "Sevilla FC-Villarreal CF"
+  },
+  {
+    "z": 188,
+    "Encuentro": "UD Almería-Valencia CF"
+  },
+  {
+    "z": 189,
+    "Encuentro": "UD Almería-Villarreal CF"
+  },
+  {
+    "z": 190,
+    "Encuentro": "Valencia CF-Villarreal CF"
+  },
+  {
+    "z": 191,
+    "Encuentro": "Atletico de Madrid-Athletic Club"
+  },
+  {
+    "z": 192,
+    "Encuentro": "CA Osasuna-Athletic Club"
+  },
+  {
+    "z": 193,
+    "Encuentro": "Cadiz FC-Athletic Club"
+  },
+  {
+    "z": 194,
+    "Encuentro": "Elche CF-Athletic Club"
+  },
+  {
+    "z": 195,
+    "Encuentro": "FC Barcelona-Athletic Club"
+  },
+  {
+    "z": 196,
+    "Encuentro": "Getafe CF-Athletic Club"
+  },
+  {
+    "z": 197,
+    "Encuentro": "Girona FC-Athletic Club"
+  },
+  {
+    "z": 198,
+    "Encuentro": "RC Celta de Vigo-Athletic Club"
+  },
+  {
+    "z": 199,
+    "Encuentro": "RCD Espanyol-Athletic Club"
+  },
+  {
+    "z": 200,
+    "Encuentro": "RCD Mallorca-Athletic Club"
+  },
+  {
+    "z": 201,
+    "Encuentro": "Rayo Vallecano-Athletic Club"
+  },
+  {
+    "z": 202,
+    "Encuentro": "Real Betis Balompié-Athletic Club"
+  },
+  {
+    "z": 203,
+    "Encuentro": "Real Madrid CF-Athletic Club"
+  },
+  {
+    "z": 204,
+    "Encuentro": "Real Sociedad-Athletic Club"
+  },
+  {
+    "z": 205,
+    "Encuentro": "Real Valladolid CF-Athletic Club"
+  },
+  {
+    "z": 206,
+    "Encuentro": "Sevilla FC-Athletic Club"
+  },
+  {
+    "z": 207,
+    "Encuentro": "UD Almería-Athletic Club"
+  },
+  {
+    "z": 208,
+    "Encuentro": "Valencia CF-Athletic Club"
+  },
+  {
+    "z": 209,
+    "Encuentro": "Villarreal CF-Athletic Club"
+  },
+  {
+    "z": 210,
+    "Encuentro": "CA Osasuna-Atletico de Madrid"
+  },
+  {
+    "z": 211,
+    "Encuentro": "Cadiz FC-Atletico de Madrid"
+  },
+  {
+    "z": 212,
+    "Encuentro": "Elche CF-Atletico de Madrid"
+  },
+  {
+    "z": 213,
+    "Encuentro": "FC Barcelona-Atletico de Madrid"
+  },
+  {
+    "z": 214,
+    "Encuentro": "Getafe CF-Atletico de Madrid"
+  },
+  {
+    "z": 215,
+    "Encuentro": "Girona FC-Atletico de Madrid"
+  },
+  {
+    "z": 216,
+    "Encuentro": "RC Celta de Vigo-Atletico de Madrid"
+  },
+  {
+    "z": 217,
+    "Encuentro": "RCD Espanyol-Atletico de Madrid"
+  },
+  {
+    "z": 218,
+    "Encuentro": "RCD Mallorca-Atletico de Madrid"
+  },
+  {
+    "z": 219,
+    "Encuentro": "Rayo Vallecano-Atletico de Madrid"
+  },
+  {
+    "z": 220,
+    "Encuentro": "Real Betis Balompié-Atletico de Madrid"
+  },
+  {
+    "z": 221,
+    "Encuentro": "Real Madrid CF-Atletico de Madrid"
+  },
+  {
+    "z": 222,
+    "Encuentro": "Real Sociedad-Atletico de Madrid"
+  },
+  {
+    "z": 223,
+    "Encuentro": "Real Valladolid CF-Atletico de Madrid"
+  },
+  {
+    "z": 224,
+    "Encuentro": "Sevilla FC-Atletico de Madrid"
+  },
+  {
+    "z": 225,
+    "Encuentro": "UD Almería-Atletico de Madrid"
+  },
+  {
+    "z": 226,
+    "Encuentro": "Valencia CF-Atletico de Madrid"
+  },
+  {
+    "z": 227,
+    "Encuentro": "Villarreal CF-Atletico de Madrid"
+  },
+  {
+    "z": 228,
+    "Encuentro": "Cadiz FC-CA Osasuna"
+  },
+  {
+    "z": 229,
+    "Encuentro": "Elche CF-CA Osasuna"
+  },
+  {
+    "z": 230,
+    "Encuentro": "FC Barcelona-CA Osasuna"
+  },
+  {
+    "z": 231,
+    "Encuentro": "Getafe CF-CA Osasuna"
+  },
+  {
+    "z": 232,
+    "Encuentro": "Girona FC-CA Osasuna"
+  },
+  {
+    "z": 233,
+    "Encuentro": "RC Celta de Vigo-CA Osasuna"
+  },
+  {
+    "z": 234,
+    "Encuentro": "RCD Espanyol-CA Osasuna"
+  },
+  {
+    "z": 235,
+    "Encuentro": "RCD Mallorca-CA Osasuna"
+  },
+  {
+    "z": 236,
+    "Encuentro": "Rayo Vallecano-CA Osasuna"
+  },
+  {
+    "z": 237,
+    "Encuentro": "Real Betis Balompié-CA Osasuna"
+  },
+  {
+    "z": 238,
+    "Encuentro": "Real Madrid CF-CA Osasuna"
+  },
+  {
+    "z": 239,
+    "Encuentro": "Real Sociedad-CA Osasuna"
+  },
+  {
+    "z": 240,
+    "Encuentro": "Real Valladolid CF-CA Osasuna"
+  },
+  {
+    "z": 241,
+    "Encuentro": "Sevilla FC-CA Osasuna"
+  },
+  {
+    "z": 242,
+    "Encuentro": "UD Almería-CA Osasuna"
+  },
+  {
+    "z": 243,
+    "Encuentro": "Valencia CF-CA Osasuna"
+  },
+  {
+    "z": 244,
+    "Encuentro": "Villarreal CF-CA Osasuna"
+  },
+  {
+    "z": 245,
+    "Encuentro": "Elche CF-Cadiz FC"
+  },
+  {
+    "z": 246,
+    "Encuentro": "FC Barcelona-Cadiz FC"
+  },
+  {
+    "z": 247,
+    "Encuentro": "Getafe CF-Cadiz FC"
+  },
+  {
+    "z": 248,
+    "Encuentro": "Girona FC-Cadiz FC"
+  },
+  {
+    "z": 249,
+    "Encuentro": "RC Celta de Vigo-Cadiz FC"
+  },
+  {
+    "z": 250,
+    "Encuentro": "RCD Espanyol-Cadiz FC"
+  },
+  {
+    "z": 251,
+    "Encuentro": "RCD Mallorca-Cadiz FC"
+  },
+  {
+    "z": 252,
+    "Encuentro": "Rayo Vallecano-Cadiz FC"
+  },
+  {
+    "z": 253,
+    "Encuentro": "Real Betis Balompié-Cadiz FC"
+  },
+  {
+    "z": 254,
+    "Encuentro": "Real Madrid CF-Cadiz FC"
+  },
+  {
+    "z": 255,
+    "Encuentro": "Real Sociedad-Cadiz FC"
+  },
+  {
+    "z": 256,
+    "Encuentro": "Real Valladolid CF-Cadiz FC"
+  },
+  {
+    "z": 257,
+    "Encuentro": "Sevilla FC-Cadiz FC"
+  },
+  {
+    "z": 258,
+    "Encuentro": "UD Almería-Cadiz FC"
+  },
+  {
+    "z": 259,
+    "Encuentro": "Valencia CF-Cadiz FC"
+  },
+  {
+    "z": 260,
+    "Encuentro": "Villarreal CF-Cadiz FC"
+  },
+  {
+    "z": 261,
+    "Encuentro": "FC Barcelona-Elche CF"
+  },
+  {
+    "z": 262,
+    "Encuentro": "Getafe CF-Elche CF"
+  },
+  {
+    "z": 263,
+    "Encuentro": "Girona FC-Elche CF"
+  },
+  {
+    "z": 264,
+    "Encuentro": "RC Celta de Vigo-Elche CF"
+  },
+  {
+    "z": 265,
+    "Encuentro": "RCD Espanyol-Elche CF"
+  },
+  {
+    "z": 266,
+    "Encuentro": "RCD Mallorca-Elche CF"
+  },
+  {
+    "z": 267,
+    "Encuentro": "Rayo Vallecano-Elche CF"
+  },
+  {
+    "z": 268,
+    "Encuentro": "Real Betis Balompié-Elche CF"
+  },
+  {
+    "z": 269,
+    "Encuentro": "Real Madrid CF-Elche CF"
+  },
+  {
+    "z": 270,
+    "Encuentro": "Real Sociedad-Elche CF"
+  },
+  {
+    "z": 271,
+    "Encuentro": "Real Valladolid CF-Elche CF"
+  },
+  {
+    "z": 272,
+    "Encuentro": "Sevilla FC-Elche CF"
+  },
+  {
+    "z": 273,
+    "Encuentro": "UD Almería-Elche CF"
+  },
+  {
+    "z": 274,
+    "Encuentro": "Valencia CF-Elche CF"
+  },
+  {
+    "z": 275,
+    "Encuentro": "Villarreal CF-Elche CF"
+  },
+  {
+    "z": 276,
+    "Encuentro": "Getafe CF-FC Barcelona"
+  },
+  {
+    "z": 277,
+    "Encuentro": "Girona FC-FC Barcelona"
+  },
+  {
+    "z": 278,
+    "Encuentro": "RC Celta de Vigo-FC Barcelona"
+  },
+  {
+    "z": 279,
+    "Encuentro": "RCD Espanyol-FC Barcelona"
+  },
+  {
+    "z": 280,
+    "Encuentro": "RCD Mallorca-FC Barcelona"
+  },
+  {
+    "z": 281,
+    "Encuentro": "Rayo Vallecano-FC Barcelona"
+  },
+  {
+    "z": 282,
+    "Encuentro": "Real Betis Balompié-FC Barcelona"
+  },
+  {
+    "z": 283,
+    "Encuentro": "Real Madrid CF-FC Barcelona"
+  },
+  {
+    "z": 284,
+    "Encuentro": "Real Sociedad-FC Barcelona"
+  },
+  {
+    "z": 285,
+    "Encuentro": "Real Valladolid CF-FC Barcelona"
+  },
+  {
+    "z": 286,
+    "Encuentro": "Sevilla FC-FC Barcelona"
+  },
+  {
+    "z": 287,
+    "Encuentro": "UD Almería-FC Barcelona"
+  },
+  {
+    "z": 288,
+    "Encuentro": "Valencia CF-FC Barcelona"
+  },
+  {
+    "z": 289,
+    "Encuentro": "Villarreal CF-FC Barcelona"
+  },
+  {
+    "z": 290,
+    "Encuentro": "Girona FC-Getafe CF"
+  },
+  {
+    "z": 291,
+    "Encuentro": "RC Celta de Vigo-Getafe CF"
+  },
+  {
+    "z": 292,
+    "Encuentro": "RCD Espanyol-Getafe CF"
+  },
+  {
+    "z": 293,
+    "Encuentro": "RCD Mallorca-Getafe CF"
+  },
+  {
+    "z": 294,
+    "Encuentro": "Rayo Vallecano-Getafe CF"
+  },
+  {
+    "z": 295,
+    "Encuentro": "Real Betis Balompié-Getafe CF"
+  },
+  {
+    "z": 296,
+    "Encuentro": "Real Madrid CF-Getafe CF"
+  },
+  {
+    "z": 297,
+    "Encuentro": "Real Sociedad-Getafe CF"
+  },
+  {
+    "z": 298,
+    "Encuentro": "Real Valladolid CF-Getafe CF"
+  },
+  {
+    "z": 299,
+    "Encuentro": "Sevilla FC-Getafe CF"
+  },
+  {
+    "z": 300,
+    "Encuentro": "UD Almería-Getafe CF"
+  },
+  {
+    "z": 301,
+    "Encuentro": "Valencia CF-Getafe CF"
+  },
+  {
+    "z": 302,
+    "Encuentro": "Villarreal CF-Getafe CF"
+  },
+  {
+    "z": 303,
+    "Encuentro": "RC Celta de Vigo-Girona FC"
+  },
+  {
+    "z": 304,
+    "Encuentro": "RCD Espanyol-Girona FC"
+  },
+  {
+    "z": 305,
+    "Encuentro": "RCD Mallorca-Girona FC"
+  },
+  {
+    "z": 306,
+    "Encuentro": "Rayo Vallecano-Girona FC"
+  },
+  {
+    "z": 307,
+    "Encuentro": "Real Betis Balompié-Girona FC"
+  },
+  {
+    "z": 308,
+    "Encuentro": "Real Madrid CF-Girona FC"
+  },
+  {
+    "z": 309,
+    "Encuentro": "Real Sociedad-Girona FC"
+  },
+  {
+    "z": 310,
+    "Encuentro": "Real Valladolid CF-Girona FC"
+  },
+  {
+    "z": 311,
+    "Encuentro": "Sevilla FC-Girona FC"
+  },
+  {
+    "z": 312,
+    "Encuentro": "UD Almería-Girona FC"
+  },
+  {
+    "z": 313,
+    "Encuentro": "Valencia CF-Girona FC"
+  },
+  {
+    "z": 314,
+    "Encuentro": "Villarreal CF-Girona FC"
+  },
+  {
+    "z": 315,
+    "Encuentro": "RCD Espanyol-RC Celta de Vigo"
+  },
+  {
+    "z": 316,
+    "Encuentro": "RCD Mallorca-RC Celta de Vigo"
+  },
+  {
+    "z": 317,
+    "Encuentro": "Rayo Vallecano-RC Celta de Vigo"
+  },
+  {
+    "z": 318,
+    "Encuentro": "Real Betis Balompié-RC Celta de Vigo"
+  },
+  {
+    "z": 319,
+    "Encuentro": "Real Madrid CF-RC Celta de Vigo"
+  },
+  {
+    "z": 320,
+    "Encuentro": "Real Sociedad-RC Celta de Vigo"
+  },
+  {
+    "z": 321,
+    "Encuentro": "Real Valladolid CF-RC Celta de Vigo"
+  },
+  {
+    "z": 322,
+    "Encuentro": "Sevilla FC-RC Celta de Vigo"
+  },
+  {
+    "z": 323,
+    "Encuentro": "UD Almería-RC Celta de Vigo"
+  },
+  {
+    "z": 324,
+    "Encuentro": "Valencia CF-RC Celta de Vigo"
+  },
+  {
+    "z": 325,
+    "Encuentro": "Villarreal CF-RC Celta de Vigo"
+  },
+  {
+    "z": 326,
+    "Encuentro": "RCD Mallorca-RCD Espanyol"
+  },
+  {
+    "z": 327,
+    "Encuentro": "Rayo Vallecano-RCD Espanyol"
+  },
+  {
+    "z": 328,
+    "Encuentro": "Real Betis Balompié-RCD Espanyol"
+  },
+  {
+    "z": 329,
+    "Encuentro": "Real Madrid CF-RCD Espanyol"
+  },
+  {
+    "z": 330,
+    "Encuentro": "Real Sociedad-RCD Espanyol"
+  },
+  {
+    "z": 331,
+    "Encuentro": "Real Valladolid CF-RCD Espanyol"
+  },
+  {
+    "z": 332,
+    "Encuentro": "Sevilla FC-RCD Espanyol"
+  },
+  {
+    "z": 333,
+    "Encuentro": "UD Almería-RCD Espanyol"
+  },
+  {
+    "z": 334,
+    "Encuentro": "Valencia CF-RCD Espanyol"
+  },
+  {
+    "z": 335,
+    "Encuentro": "Villarreal CF-RCD Espanyol"
+  },
+  {
+    "z": 336,
+    "Encuentro": "Rayo Vallecano-RCD Mallorca"
+  },
+  {
+    "z": 337,
+    "Encuentro": "Real Betis Balompié-RCD Mallorca"
+  },
+  {
+    "z": 338,
+    "Encuentro": "Real Madrid CF-RCD Mallorca"
+  },
+  {
+    "z": 339,
+    "Encuentro": "Real Sociedad-RCD Mallorca"
+  },
+  {
+    "z": 340,
+    "Encuentro": "Real Valladolid CF-RCD Mallorca"
+  },
+  {
+    "z": 341,
+    "Encuentro": "Sevilla FC-RCD Mallorca"
+  },
+  {
+    "z": 342,
+    "Encuentro": "UD Almería-RCD Mallorca"
+  },
+  {
+    "z": 343,
+    "Encuentro": "Valencia CF-RCD Mallorca"
+  },
+  {
+    "z": 344,
+    "Encuentro": "Villarreal CF-RCD Mallorca"
+  },
+  {
+    "z": 345,
+    "Encuentro": "Real Betis Balompié-Rayo Vallecano"
+  },
+  {
+    "z": 346,
+    "Encuentro": "Real Madrid CF-Rayo Vallecano"
+  },
+  {
+    "z": 347,
+    "Encuentro": "Real Sociedad-Rayo Vallecano"
+  },
+  {
+    "z": 348,
+    "Encuentro": "Real Valladolid CF-Rayo Vallecano"
+  },
+  {
+    "z": 349,
+    "Encuentro": "Sevilla FC-Rayo Vallecano"
+  },
+  {
+    "z": 350,
+    "Encuentro": "UD Almería-Rayo Vallecano"
+  },
+  {
+    "z": 351,
+    "Encuentro": "Valencia CF-Rayo Vallecano"
+  },
+  {
+    "z": 352,
+    "Encuentro": "Villarreal CF-Rayo Vallecano"
+  },
+  {
+    "z": 353,
+    "Encuentro": "Real Madrid CF-Real Betis Balompié"
+  },
+  {
+    "z": 354,
+    "Encuentro": "Real Sociedad-Real Betis Balompié"
+  },
+  {
+    "z": 355,
+    "Encuentro": "Real Valladolid CF-Real Betis Balompié"
+  },
+  {
+    "z": 356,
+    "Encuentro": "Sevilla FC-Real Betis Balompié"
+  },
+  {
+    "z": 357,
+    "Encuentro": "UD Almería-Real Betis Balompié"
+  },
+  {
+    "z": 358,
+    "Encuentro": "Valencia CF-Real Betis Balompié"
+  },
+  {
+    "z": 359,
+    "Encuentro": "Villarreal CF-Real Betis Balompié"
+  },
+  {
+    "z": 360,
+    "Encuentro": "Real Sociedad-Real Madrid CF"
+  },
+  {
+    "z": 361,
+    "Encuentro": "Real Valladolid CF-Real Madrid CF"
+  },
+  {
+    "z": 362,
+    "Encuentro": "Sevilla FC-Real Madrid CF"
+  },
+  {
+    "z": 363,
+    "Encuentro": "UD Almería-Real Madrid CF"
+  },
+  {
+    "z": 364,
+    "Encuentro": "Valencia CF-Real Madrid CF"
+  },
+  {
+    "z": 365,
+    "Encuentro": "Villarreal CF-Real Madrid CF"
+  },
+  {
+    "z": 366,
+    "Encuentro": "Real Valladolid CF-Real Sociedad"
+  },
+  {
+    "z": 367,
+    "Encuentro": "Sevilla FC-Real Sociedad"
+  },
+  {
+    "z": 368,
+    "Encuentro": "UD Almería-Real Sociedad"
+  },
+  {
+    "z": 369,
+    "Encuentro": "Valencia CF-Real Sociedad"
+  },
+  {
+    "z": 370,
+    "Encuentro": "Villarreal CF-Real Sociedad"
+  },
+  {
+    "z": 371,
+    "Encuentro": "Sevilla FC-Real Valladolid CF"
+  },
+  {
+    "z": 372,
+    "Encuentro": "UD Almería-Real Valladolid CF"
+  },
+  {
+    "z": 373,
+    "Encuentro": "Valencia CF-Real Valladolid CF"
+  },
+  {
+    "z": 374,
+    "Encuentro": "Villarreal CF-Real Valladolid CF"
+  },
+  {
+    "z": 375,
+    "Encuentro": "UD Almería-Sevilla FC"
+  },
+  {
+    "z": 376,
+    "Encuentro": "Valencia CF-Sevilla FC"
+  },
+  {
+    "z": 377,
+    "Encuentro": "Villarreal CF-Sevilla FC"
+  },
+  {
+    "z": 378,
+    "Encuentro": "Valencia CF-UD Almería"
+  },
+  {
+    "z": 379,
+    "Encuentro": "Villarreal CF-UD Almería"
+  },
+  {
+    "z": 380,
+    "Encuentro": "Villarreal CF-Valencia CF"
+  }
+]
